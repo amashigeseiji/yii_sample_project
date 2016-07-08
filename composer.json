@@ -1,0 +1,14 @@
+{
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/codeception/yiibridge.git"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "codeception/codeception": "^2.2",
+        "yiisoft/yii": "^1.1",
+        "Codeception/YiiBridge": "dev-master"
+    }
+}

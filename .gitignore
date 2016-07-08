@@ -1,0 +1,4 @@
+vendor/
+sample/
+tests/
+codeception.yml
